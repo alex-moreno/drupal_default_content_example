@@ -1,0 +1,15 @@
+name: 'Default content example'
+type: module
+description: 'Shows how to create default content with default_content_example.'
+package: Custom
+core_version_requirement: ^8.8 || ^9
+dependencies:
+  - default_content
+
+default_content:
+  node:
+    - 79cf1094-3daa-4a74-8704-10744663e60e
+    - 223b8d07-cd3a-434c-91f1-e4aa69426494
+    - 70746854-fc60-4844-85b6-43a0e23c73e6
+    - 2eaf6e71-937e-412a-8216-2b3535cf0b2a
+    - 17a9347f-4ea1-47b3-b883-a4b81bf3dcde
